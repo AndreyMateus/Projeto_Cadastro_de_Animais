@@ -1,18 +1,12 @@
-## Getting Started
+## Sobre o Projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+É um projeto criado por mim com intenção de fixar alguns conceitos aprendidos como: Collections, Generics, Herança, Polimorfismo, Encapsulamento e alguns mais.
 
-## Folder Structure
+## Como ele funciona ?
 
-The workspace contains two folders by default, where:
+O objetivo é que as informações/input sobre o animal seja adquirida e após isso seja criado um objeto do tipo do animal e as propriedades sejam
+preenchidas com os valores que foi digitado pelo usuário, após isso o objeto será guardado em uma ArrayList.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Objetivo
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Como eu disse o foco é aplicar conceitos aprendidos ou que estão em aprendizado, futuramente pode ser que o projeto ganhe uma rafatoração e talvez até uma interface.
