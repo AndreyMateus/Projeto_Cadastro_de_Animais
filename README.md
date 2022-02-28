@@ -9,4 +9,4 @@ preenchidas com os valores que foi digitado pelo usuário, após isso o objeto s
 
 ## Objetivo
 
-Como eu disse o foco é aplicar conceitos aprendidos ou que estão em aprendizado, futuramente pode ser que o projeto ganhe uma rafatoração e talvez até uma interface.
+Como eu disse o foco é aplicar conceitos aprendidos ou que estão em aprendizado, futuramente pode ser que o projeto ganhe uma refatoração e talvez até uma interface.
